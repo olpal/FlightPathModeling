@@ -1,0 +1,14 @@
+To build the file type:
+
+make
+
+To clean before remaking:
+
+make clean
+
+After building the project the executable file is named flightmake
+
+Running this file produces a log file called modelrun.log in the same directory which contains the results of the model execution
+
+All variables are intialized inside the main.cpp file. The model can be changed from the initialization method
+from inside the main.cpp file. 
